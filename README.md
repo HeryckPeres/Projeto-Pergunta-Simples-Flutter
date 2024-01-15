@@ -1,20 +1,24 @@
-# projeto_perguntas
+#projeto_perguntas
 
-A new Flutter project.
+Bem-vindo ao meu projeto de perguntas simples! Aqui estão as instruções para baixar e testar o projeto:
 
-## Getting Started
+#Pré-requisitos
 
-This project is a starting point for a Flutter application.
+Certifique-se de ter Flutter e Android Studio instalados no seu sistema.
 
-A few resources to get you started if this is your first Flutter project:
+    Guia de Instalação do Flutter: Instalando o Flutter
+    Guia de Instalação do Android Studio: Instalando o Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone o repositório para o seu computador:
+git clone https://github.com/HeryckPeres/Projeto-Pergunta-Simples-Flutter.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Projeto-Perguntas-Simples-Flutter
-# Projeto-Pergunta-Simples-Flutter
-# Projeto-Pergunta-Simples-Flutter
-# Projeto-Pergunta-Simples-Flutter
+Navegue até o diretório do projeto:
+cd nome-do-seu-projeto
+
+Execute o aplicativo Flutter:
+flutter run
+
+Agora você deve estar pronto para iniciar e testar o projeto no seu ambiente local.
+
+
+![image](https://github.com/HeryckPeres/Projeto-Pergunta-Simples-Flutter/assets/54678836/14f19ccf-85b5-4b27-96ad-5085acdd9e15)
