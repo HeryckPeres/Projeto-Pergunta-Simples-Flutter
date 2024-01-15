@@ -6,8 +6,8 @@ Bem-vindo ao meu projeto de perguntas simples! Aqui estão as instruções para 
 
 Certifique-se de ter Flutter e Android Studio instalados no seu sistema.
 
-    Guia de Instalação do Flutter: Instalando o Flutter
-    Guia de Instalação do Android Studio: Instalando o Android Studio
+- Guia de Instalação do Flutter: [Instalando o Flutter](https://flutter.dev/docs/get-started/install)
+- Guia de Instalação do Android Studio: [Instalando o Android Studio](https://developer.android.com/studio)
 
 Clone o repositório para o seu computador:
 git clone https://github.com/HeryckPeres/Projeto-Pergunta-Simples-Flutter.git
