@@ -13,10 +13,10 @@ Clone o repositório para o seu computador:
 git clone https://github.com/HeryckPeres/Projeto-Pergunta-Simples-Flutter.git
 
 Navegue até o diretório do projeto:
-cd nome-do-seu-projeto
+`cd nome-do-seu-projeto`
 
 Execute o aplicativo Flutter:
-flutter run
+`flutter run`
 
 Agora você deve estar pronto para iniciar e testar o projeto no seu ambiente local.
 
