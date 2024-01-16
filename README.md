@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu projeto de perguntas simples! Aqui estão as instruções para baixar e testar o projeto:
 
-#Pré-requisitos
+## Pré-requisitos
 
 Certifique-se de ter Flutter e Android Studio instalados no seu sistema.
 
